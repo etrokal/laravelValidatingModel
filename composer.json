@@ -1,0 +1,19 @@
+{
+    "name": "etrokal/validating-model",
+    "description": "Model customizado para conter a lógica de validação do Laravel embutida.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcelo Duarte",
+            "email": "mduarte@outlook.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Etrokal\\ValidatingModel\\": "src/"
+        }
+    }
+}
